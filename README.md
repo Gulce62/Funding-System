@@ -1,1 +1,1 @@
-# Funding-System
+# CS281 Project Funding-System
